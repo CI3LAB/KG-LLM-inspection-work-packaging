@@ -1,0 +1,606 @@
+Inspection Task ID,Inspection Task,Product ID,Targeted/related Product,Production Task ID,Corresponding Production Task,Frequency ID,Frequency,Tool ID,Tool,Person ID,Person,Production Phase,Phase ID
+1,rebar sampling for test,1,rebar/reinforcement bar,1,steel material on factory,1,as per bd requiement,1,digital vernier scale,0,,structure,1
+2,corner cast sampling for test,2,coner casting,1,steel material on factory,1,as per bd requiement,1,digital vernier scale,0,,structure,1
+3,"material grade check for board, profile",3,promatect hboard,2,"board, profile pretreatment and punching",2,routine,2,mill certificate,0,,structure,1
+3,"material grade check for board, profile",4,knauf frp board,2,"board, profile pretreatment and punching",2,routine,2,mill certificate,0,,structure,1
+3,"material grade check for board, profile",5,gemtree frp board,2,"board, profile pretreatment and punching",2,routine,2,mill certificate,0,,structure,1
+3,"material grade check for board, profile",6,gypsum board,2,"board, profile pretreatment and punching",2,routine,2,mill certificate,0,,structure,1
+3,"material grade check for board, profile",7,cement board,2,"board, profile pretreatment and punching",2,routine,2,mill certificate,0,,structure,1
+3,"material grade check for board, profile",8,corrugated profile,2,"board, profile pretreatment and punching",2,routine,2,mill certificate,0,,structure,1
+4,"dimension check for board, profile",3,promatect hboard,2,"board, profile pretreatment and punching",2,routine,3,tape measure,0,,structure,1
+4,"dimension check for board, profile",4,knauf frp board,2,"board, profile pretreatment and punching",2,routine,3,tape measure,0,,structure,1
+4,"dimension check for board, profile",5,gemtree frp board,2,"board, profile pretreatment and punching",2,routine,3,tape measure,0,,structure,1
+4,"dimension check for board, profile",6,gypsum board,2,"board, profile pretreatment and punching",2,routine,3,tape measure,0,,structure,1
+4,"dimension check for board, profile",7,cement board,2,"board, profile pretreatment and punching",2,routine,3,tape measure,0,,structure,1
+4,"dimension check for board, profile",8,corrugated profile,2,"board, profile pretreatment and punching",2,routine,3,tape measure,0,,structure,1
+5,"visual inspection for board, profile pretreatment and punching",3,promatect hboard,2,"board, profile pretreatment and punching",2,routine,4,N/A,0,,structure,1
+5,"visual inspection for board, profile pretreatment and punching",4,knauf frp board,2,"board, profile pretreatment and punching",2,routine,4,N/A,0,,structure,1
+5,"visual inspection for board, profile pretreatment and punching",5,gemtree frp board,2,"board, profile pretreatment and punching",2,routine,4,N/A,0,,structure,1
+5,"visual inspection for board, profile pretreatment and punching",6,gypsum board,2,"board, profile pretreatment and punching",2,routine,4,N/A,0,,structure,1
+5,"visual inspection for board, profile pretreatment and punching",7,cement board,2,"board, profile pretreatment and punching",2,routine,4,N/A,0,,structure,1
+5,"visual inspection for board, profile pretreatment and punching",8,corrugated profile,2,"board, profile pretreatment and punching",2,routine,4,N/A,0,,structure,1
+6,visual inspection for 2d panel assembly (butt weld and fillet weld included),9,2d panel,3,2d panel assembly (butt weld and fillet weld included),2,routine,4,N/A,0,,structure,1
+6,visual inspection for 2d panel assembly (butt weld and fillet weld included),10,shear stud,3,2d panel assembly (butt weld and fillet weld included),2,routine,4,N/A,0,,structure,1
+6,visual inspection for 2d panel assembly (butt weld and fillet weld included),11,composite floor slab,3,2d panel assembly (butt weld and fillet weld included),2,routine,4,N/A,0,,structure,1
+7,visual inspection for 2d panel weld test,9,2d panel,4,2d panel weld test,3,100%,4,N/A,1,lab testers,structure,1
+8,magnetic particle inspection for 2d panel weld test,9,2d panel,4,2d panel weld test,4,10%,5,magnetizing equipment,1,lab testers,structure,1
+9,ultrasonic testing for 2d panel weld test,9,2d panel,4,2d panel weld test,4,10%,6,ultrasonic device,1,lab testers,structure,1
+10,hot dip galvanized thickness check for 2d panel hot dip galvanizing treament,9,2d panel,5,2d panel hot dip galvanizing treament,2,routine,7,coating thickness gauge,2,registered structural engineers,structure,1
+11,quantity check for welding consumables and electrodes,12,welding rod,6,welding consumables & electrodes,5,each batch,8,inventory checklist,0,,structure,1
+11,quantity check for welding consumables and electrodes,13,electrode,6,welding consumables & electrodes,5,each batch,8,inventory checklist,0,,structure,1
+11,quantity check for welding consumables and electrodes,14,welding electrode,6,welding consumables & electrodes,5,each batch,8,inventory checklist,0,,structure,1
+11,quantity check for welding consumables and electrodes,15,filler rod,6,welding consumables & electrodes,5,each batch,8,inventory checklist,0,,structure,1
+11,quantity check for welding consumables and electrodes,16,metal pencil for butt weld and fillet weld,6,welding consumables & electrodes,5,each batch,8,inventory checklist,0,,structure,1
+12,material certificate check for welding consumables and electrodes,12,welding rod,6,welding consumables & electrodes,5,each batch,2,mill certificate,0,,structure,1
+12,material certificate check for welding consumables and electrodes,13,electrode,6,welding consumables & electrodes,5,each batch,2,mill certificate,0,,structure,1
+12,material certificate check for welding consumables and electrodes,14,welding electrode,6,welding consumables & electrodes,5,each batch,2,mill certificate,0,,structure,1
+12,material certificate check for welding consumables and electrodes,15,filler rod,6,welding consumables & electrodes,5,each batch,2,mill certificate,0,,structure,1
+12,material certificate check for welding consumables and electrodes,16,metal pencil for butt weld and fillet weld,6,welding consumables & electrodes,5,each batch,2,mill certificate,0,,structure,1
+13,dimension check for acceptance check of welded frame,17,2d frame,7,acceptance check of welded frame,2,routine,9,laser equipment,0,,structure,1
+14,alignment check for acceptance check of welded frame,17,2d frame,7,acceptance check of welded frame,2,routine,9,laser equipment,0,,structure,1
+15,absence of distortion check for acceptance check of welded frame,17,2d frame,7,acceptance check of welded frame,2,routine,9,laser equipment,0,,structure,1
+16,magnetic particle inspection for 2d frame assembly,17,2d frame,8,routine testing,2,routine,5,magnetizing equipment,1,lab testers,structure,1
+17,ultrasonic testing for 2d frame assembly,17,2d frame,8,routine testing,2,routine,6,ultrasonic device,1,lab testers,structure,1
+18,thickness test for corrosion protection coating application for 2d frame assembly,17,2d frame,9,corrosion protection coating application,2,routine,7,coating thickness gauge,0,,structure,1
+19,pre delivery check for 2d frame assembly,17,2d frame,10,packaging protection (2d),3,100%,3,tape measure,0,,structure,1
+19,pre delivery check for 2d frame assembly,17,2d frame,10,packaging protection (2d),3,100%,10,torque wrench,0,,structure,1
+20,"cladding sub frame alignment check for 3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",18,3d steel frame,11,"3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",0,,9,laser equipment,0,,structure,1
+21,"dimension check for 3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",18,3d steel frame,11,"3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",2,routine,3,tape measure,3,authorized persons,structure,1
+22,"visual inspection for 3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",18,3d steel frame,11,"3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",3,100%,4,N/A,0,,structure,1
+23,"magnetic particle inspection for 3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",18,3d steel frame,11,"3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",3,100%,5,magnetizing equipment,0,,structure,1
+24,"ultrasonic testing for 3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",18,3d steel frame,11,"3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",3,100%,6,ultrasonic device,0,,structure,1
+25,shear stud bend test,10,shear stud,11,"3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",7,5%,11,bend testing machine,0,,structure,1
+26,shear stud weld test,10,shear stud,11,"3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",7,5%,12,tensile testing machine,0,,structure,1
+27,water test,19,chassis enclosure,11,"3d assembly including (welding work for bondek, shear stud, bracket, wall & ceiling sheet)",3,100%,13,hydrostatic testing equipment,3,authorized persons,structure,1
+28,visual inspection for touch-up galvanized paint,18,3d steel frame,12,touch-up galvanized paint (zinc rich primer),2,routine,4,N/A,0,,structure,1
+29,thickness check for fire paint at strucutral member,18,3d steel frame,13,apply fire paint at strucutral member,2,routine,7,coating thickness gauge,3,authorized persons,structure,1
+29,thickness check for fire paint at strucutral member,18,3d steel frame,13,apply fire paint at strucutral member,2,routine,7,coating thickness gauge,2,registered structural engineers,structure,1
+13,dimension check for acceptance check of welded frame,18,3d steel frame,7,acceptance check of welded frame,2,routine,9,laser equipment,0,,structure,1
+14,alignment check for acceptance check of welded frame,18,3d steel frame,7,acceptance check of welded frame,2,routine,9,laser equipment,0,,structure,1
+15,absence of distortion check for acceptance check of welded frame,18,3d steel frame,7,acceptance check of welded frame,2,routine,9,laser equipment,0,,structure,1
+30,"setting out for acceptance check of bracket for cladding, architecture fins",20,architecture fins,14,"acceptance check of bracket for cladding, architecture fins",2,routine,3,tape measure,0,,structure,1
+30,"setting out for acceptance check of bracket for cladding, architecture fins",21,bracket for cladding,14,"acceptance check of bracket for cladding, architecture fins",2,routine,3,tape measure,0,,structure,1
+31,"dimension check for acceptance check of bracket for cladding, architecture fins",20,architecture fins,14,"acceptance check of bracket for cladding, architecture fins",2,routine,3,tape measure,0,,structure,1
+31,"dimension check for acceptance check of bracket for cladding, architecture fins",21,bracket for cladding,14,"acceptance check of bracket for cladding, architecture fins",2,routine,3,tape measure,0,,structure,1
+32,thickness test for corrosion protection coating application for 3d frame assembly,18,3d steel frame,9,corrosion protection coating application,2,routine,7,coating thickness gauge,0,,structure,1
+33,thickness test for application of fire print for 3d frame assembly,18,3d steel frame,15,application of fire print,2,routine,7,coating thickness gauge,0,,structure,1
+34,visual inspection for rebar fixing and pouring concrete,1,rebar/reinforcement bar,16,rebar fixing and pouring concrete,3,100%,4,N/A,0,,structure,1
+34,visual inspection for rebar fixing and pouring concrete,22,rebar spacer,16,rebar fixing and pouring concrete,3,100%,4,N/A,0,,structure,1
+34,visual inspection for rebar fixing and pouring concrete,23,rebar support chair,16,rebar fixing and pouring concrete,3,100%,4,N/A,0,,structure,1
+34,visual inspection for rebar fixing and pouring concrete,24,rebar tie wire,16,rebar fixing and pouring concrete,3,100%,4,N/A,0,,structure,1
+34,visual inspection for rebar fixing and pouring concrete,25,concrete,16,rebar fixing and pouring concrete,3,100%,4,N/A,0,,structure,1
+35,rebar cleaning for rebar fixing,1,rebar/reinforcement bar,16,rebar fixing and pouring concrete,3,100%,4,N/A,0,,structure,1
+36,test of rebar material(class 2 rebar),1,rebar/reinforcement bar,17,rebar test,5,each batch,12,tensile testing machine,1,lab testers,structure,1
+36,test of rebar material(class 2 rebar),1,rebar/reinforcement bar,17,rebar test,5,each batch,11,bend testing machine,1,lab testers,structure,1
+37,slump test,25,concrete,18,concrete test,8,every truck,14,slump test equipment,1,lab testers,structure,1
+38,150mm cube test (28-day),25,concrete,18,concrete test,9,each batch / every 25m?,15,compression testing machine,1,lab testers,structure,1
+39,weld test for shear stud installation,10,shear stud,19,shear stud installation,3,100%,12,tensile testing machine,0,,structure,1
+40,visual inspection for shear stud installation,10,shear stud,19,shear stud installation,3,100%,4,N/A,0,,structure,1
+41,visual inspection for concrete curing,25,concrete,20,concrete curing,2,routine,4,N/A,0,,structure,1
+42,setting out for door and window frame installation,26,door frame,21,door and window frame installation,2,routine,3,tape measure,0,,door/window,2
+42,setting out for door and window frame installation,27,window frame,21,door and window frame installation,2,routine,3,tape measure,0,,door/window,2
+43,dimension check for door and window frame installation,27,window frame,21,door and window frame installation,2,routine,3,tape measure,0,,door/window,2
+44,dimension check for the material control of door installation,26,door frame,22,door frames,5,each batch,3,tape measure,0,,door/window,2
+45,brand name check for the material control of door installation,26,door frame,22,door frames,5,each batch,16,bill of materials,0,,door/window,2
+46,visual surface check for the material control of door installation,26,door frame,22,door frames,5,each batch,4,N/A,0,,door/window,2
+46,visual surface check for the material control of door installation,28,hardwood solid core flush door,23,hardwood solid core flush doors,5,each batch,4,N/A,0,,door/window,2
+44,dimension check for the material control of door installation,28,hardwood solid core flush door,23,hardwood solid core flush doors,5,each batch,3,tape measure,0,,door/window,2
+47,thickness check for the material control of door installation,28,hardwood solid core flush door,23,hardwood solid core flush doors,5,each batch,3,tape measure,0,,door/window,2
+46,visual surface check for the material control of door installation,29,timber door,23,hardwood solid core flush doors,5,each batch,4,N/A,0,,door/window,2
+44,dimension check for the material control of door installation,29,timber door,23,hardwood solid core flush doors,5,each batch,3,tape measure,0,,door/window,2
+47,thickness check for the material control of door installation,29,timber door,23,hardwood solid core flush doors,5,each batch,3,tape measure,0,,door/window,2
+46,visual surface check for the material control of door installation,30,non-frp timber door,23,hardwood solid core flush doors,5,each batch,4,N/A,0,,door/window,2
+44,dimension check for the material control of door installation,30,non-frp timber door,23,hardwood solid core flush doors,5,each batch,3,tape measure,0,,door/window,2
+47,thickness check for the material control of door installation,30,non-frp timber door,23,hardwood solid core flush doors,5,each batch,3,tape measure,0,,door/window,2
+46,visual surface check for the material control of door installation,31,frp timber door,23,hardwood solid core flush doors,5,each batch,4,N/A,0,,door/window,2
+44,dimension check for the material control of door installation,31,frp timber door,23,hardwood solid core flush doors,5,each batch,3,tape measure,0,,door/window,2
+47,thickness check for the material control of door installation,31,frp timber door,23,hardwood solid core flush doors,5,each batch,3,tape measure,0,,door/window,2
+48,setting out for door installation,32,door,24,"setting out, establish floor level, and alignment",10,20%,3,tape measure,0,,door/window,2
+49,establish floor level,33,floor,24,"setting out, establish floor level, and alignment",10,20%,3,tape measure,0,,door/window,2
+49,establish floor level,33,floor,24,"setting out, establish floor level, and alignment",10,20%,17,level,0,,door/window,2
+49,establish floor level,33,floor,24,"setting out, establish floor level, and alignment",10,20%,18,square,0,,door/window,2
+50,visual inspection for door frame fixing,26,door frame,25,fix door frame,10,20%,4,N/A,0,,door/window,2
+51,visual inspection for door panel fixing,34,door panel,26,fixing door panel,10,20%,4,N/A,4,qc inspector (factory),door/window,2
+52,proper installation check for door panel fixing,34,door panel,26,fixing door panel,10,20%,17,level,4,qc inspector (factory),door/window,2
+53,gap alignment check for door panel fixing,34,door panel,26,fixing door panel,10,20%,3,tape measure,4,qc inspector (factory),door/window,2
+54,review sample for installation of hinges,35,hinge,27,installation?of?hinges,10,20%,4,N/A,4,qc inspector (factory),door/window,2
+55,visual inspection for installation of hinges,35,hinge,27,installation?of?hinges,10,20%,4,N/A,4,qc inspector (factory),door/window,2
+56,verify compliance for installation of hinges,35,hinge,27,installation?of?hinges,10,20%,3,tape measure,4,qc inspector (factory),door/window,2
+57,review sample for installation?of?overhead door closer,36,overhead door closer,28,installation?of?overhead door closer,10,20%,3,tape measure,0,,door/window,2
+58,visual inspection for installation?of?overhead door closer,36,overhead door closer,28,installation?of?overhead door closer,10,20%,4,N/A,0,,door/window,2
+59,verify compliance for installation?of?overhead door closer,36,overhead door closer,28,installation?of?overhead door closer,10,20%,3,tape measure,0,,door/window,2
+60,water spray test for door/window,29,timber door,29,door/window,0,,19,water spray system,0,,door/window,2
+60,water spray test for door/window,30,non-frp timber door,29,door/window,0,,19,water spray system,0,,door/window,2
+60,water spray test for door/window,31,frp timber door,29,door/window,0,,19,water spray system,0,,door/window,2
+60,water spray test for door/window,37,hardwood solid core flush doors,29,door/window,0,,19,water spray system,0,,door/window,2
+60,water spray test for door/window,38,aluminium window,29,door/window,0,,19,water spray system,0,,door/window,2
+61,electrical continuity test for door/window,29,timber door,29,door/window,0,,20,multimeter,0,,door/window,2
+61,electrical continuity test for door/window,30,non-frp timber door,29,door/window,0,,20,multimeter,0,,door/window,2
+61,electrical continuity test for door/window,31,frp timber door,29,door/window,0,,20,multimeter,0,,door/window,2
+61,electrical continuity test for door/window,37,hardwood solid core flush doors,29,door/window,0,,20,multimeter,0,,door/window,2
+61,electrical continuity test for door/window,38,aluminium window,29,door/window,0,,20,multimeter,0,,door/window,2
+62,review sample for aluminum extruded section include ironmongery,39,handle,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+62,review sample for aluminum extruded section include ironmongery,35,hinge,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+62,review sample for aluminum extruded section include ironmongery,40,latch,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+62,review sample for aluminum extruded section include ironmongery,41,door ironmongery,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+62,review sample for aluminum extruded section include ironmongery,42,locks,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+62,review sample for aluminum extruded section include ironmongery,43,door slides,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+62,review sample for aluminum extruded section include ironmongery,44,drawer slides,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+63,brand name check for aluminum extruded section include ironmongery,35,hinge,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,16,bill of materials,0,,door/window,2
+63,brand name check for aluminum extruded section include ironmongery,39,handle,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,16,bill of materials,0,,door/window,2
+63,brand name check for aluminum extruded section include ironmongery,40,latch,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,16,bill of materials,0,,door/window,2
+63,brand name check for aluminum extruded section include ironmongery,41,door ironmongery,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,16,bill of materials,0,,door/window,2
+63,brand name check for aluminum extruded section include ironmongery,42,locks,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,16,bill of materials,0,,door/window,2
+63,brand name check for aluminum extruded section include ironmongery,43,door slides,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,16,bill of materials,0,,door/window,2
+63,brand name check for aluminum extruded section include ironmongery,44,drawer slides,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,16,bill of materials,0,,door/window,2
+64,visual inspection for  aluminum extruded section include ironmongery,39,handle,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+64,visual inspection for  aluminum extruded section include ironmongery,35,hinge,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+64,visual inspection for  aluminum extruded section include ironmongery,40,latch,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+64,visual inspection for  aluminum extruded section include ironmongery,41,door ironmongery,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+64,visual inspection for  aluminum extruded section include ironmongery,42,locks,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+64,visual inspection for  aluminum extruded section include ironmongery,43,door slides,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+64,visual inspection for  aluminum extruded section include ironmongery,44,drawer slides,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,4,N/A,0,,door/window,2
+65,measure dimension  for aluminum extruded section include ironmongery,39,handle,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,3,tape measure,0,,door/window,2
+65,measure dimension  for aluminum extruded section include ironmongery,35,hinge,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,3,tape measure,0,,door/window,2
+65,measure dimension  for aluminum extruded section include ironmongery,40,latch,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,3,tape measure,0,,door/window,2
+65,measure dimension  for aluminum extruded section include ironmongery,41,door ironmongery,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,3,tape measure,0,,door/window,2
+65,measure dimension  for aluminum extruded section include ironmongery,42,locks,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,3,tape measure,0,,door/window,2
+65,measure dimension  for aluminum extruded section include ironmongery,43,door slides,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,3,tape measure,0,,door/window,2
+65,measure dimension  for aluminum extruded section include ironmongery,44,drawer slides,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,3,tape measure,0,,door/window,2
+66,2mm thickness check for aluminum extruded section include ironmongery,39,handle,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,1,digital vernier scale,0,,door/window,2
+66,2mm thickness check for aluminum extruded section include ironmongery,35,hinge,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,1,digital vernier scale,0,,door/window,2
+66,2mm thickness check for aluminum extruded section include ironmongery,40,latch,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,1,digital vernier scale,0,,door/window,2
+66,2mm thickness check for aluminum extruded section include ironmongery,41,door ironmongery,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,1,digital vernier scale,0,,door/window,2
+66,2mm thickness check for aluminum extruded section include ironmongery,42,locks,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,1,digital vernier scale,0,,door/window,2
+66,2mm thickness check for aluminum extruded section include ironmongery,43,door slides,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,1,digital vernier scale,0,,door/window,2
+66,2mm thickness check for aluminum extruded section include ironmongery,44,drawer slides,30,"aluminum extruded section include ironmongery (hinge, handle and latches)",5,each batch,1,digital vernier scale,0,,door/window,2
+67,review sample for glass,45,glass panel,31,glass,5,each batch,4,N/A,0,,door/window,2
+68,visual inspection for glass,45,glass panel,31,glass,5,each batch,4,N/A,0,,door/window,2
+69,measure dimension for glass,45,glass panel,31,glass,5,each batch,3,tape measure,0,,door/window,2
+70,thickness check for glass,45,glass panel,31,glass,5,each batch,1,digital vernier scale,0,,door/window,2
+71,"visual inspection for setting blocks, edge blocks, spacers and shims during window installation",46,spacer,32,"setting blocks, edge blocks, spacers and shims",5,each batch,4,N/A,0,,door/window,2
+71,"visual inspection for setting blocks, edge blocks, spacers and shims during window installation",47,setting blocks,32,"setting blocks, edge blocks, spacers and shims",5,each batch,4,N/A,0,,door/window,2
+71,"visual inspection for setting blocks, edge blocks, spacers and shims during window installation",48,edge block,32,"setting blocks, edge blocks, spacers and shims",5,each batch,4,N/A,0,,door/window,2
+71,"visual inspection for setting blocks, edge blocks, spacers and shims during window installation",49,shim,32,"setting blocks, edge blocks, spacers and shims",5,each batch,4,N/A,0,,door/window,2
+72,visual inspection for gaskets and weatherstrips,50,gasket,33,gaskets and weatherstrips,5,each batch,4,N/A,0,,door/window,2
+72,visual inspection for gaskets and weatherstrips,51,weatherstrip,33,gaskets and weatherstrips,5,each batch,4,N/A,0,,door/window,2
+73,visual inspection for sealants,52,structual sealant,34,sealants,5,each batch,4,N/A,4,qc inspector (factory),door/window,2
+73,visual inspection for sealants,53,weather sealants,34,sealants,5,each batch,4,N/A,4,qc inspector (factory),door/window,2
+74,brand name check for sealants,52,structual sealant,34,sealants,5,each batch,16,bill of materials,4,qc inspector (factory),door/window,2
+74,brand name check for sealants,53,weather sealants,34,sealants,5,each batch,16,bill of materials,4,qc inspector (factory),door/window,2
+75,check setting out for window installation,38,aluminium window,35,"setting out, level, and alignment",10,20%,3,tape measure,0,,door/window,2
+76,check level for window installation,38,aluminium window,35,"setting out, level, and alignment",10,20%,17,level,0,,door/window,2
+77,review sample for window installation,38,aluminium window,36,window installation (glazing had fixed on the window),10,20%,4,N/A,0,,door/window,2
+78,visual inspection  for window installation,38,aluminium window,36,window installation (glazing had fixed on the window),10,20%,4,N/A,0,,door/window,2
+79,verify compliance for window installation,38,aluminium window,36,window installation (glazing had fixed on the window),10,20%,3,tape measure,0,,door/window,2
+80,check proper installation for earthing point setting during window installation,38,aluminium window,37,earthing point setting,4,10%,21,multi-function tester,0,,door/window,2
+81,visual inspection for ceiling stud installation at ceiling surface,10,shear stud,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+81,visual inspection for ceiling stud installation at ceiling surface,54,noggins and braces for reinforced stud support,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+81,visual inspection for ceiling stud installation at ceiling surface,55,ceiling panel,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+81,visual inspection for ceiling stud installation at ceiling surface,56,steel ceiling beam,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+81,visual inspection for ceiling stud installation at ceiling surface,57,track for stud installation,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+81,visual inspection for ceiling stud installation at ceiling surface,58,channel,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+81,visual inspection for ceiling stud installation at ceiling surface,59,runners,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+81,visual inspection for ceiling stud installation at ceiling surface,60,metal skeleton,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+82,visual inspection for rockwool in-fill at ceiling surface,61,mineral wool insulation,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+82,visual inspection for rockwool in-fill at ceiling surface,62,rockwool,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+83,visual inspection for fire board installation at ceiling surface,3,promatect hboard,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+83,visual inspection for fire board installation at ceiling surface,63,gemtree board,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+83,visual inspection for fire board installation at ceiling surface,5,gemtree frp board,38,"ceiling stud, rockwool in-fill and fire board installation at ceiling surface",0,,4,N/A,3,authorized persons,wall,3
+84,visual inspection for wall stud installation,10,shear stud,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+84,visual inspection for wall stud installation,54,noggins and braces for reinforced stud support,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+84,visual inspection for wall stud installation,64,wall panel,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+84,visual inspection for wall stud installation,65,wall tiles,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+84,visual inspection for wall stud installation,57,track for stud installation,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+84,visual inspection for wall stud installation,58,channel,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+84,visual inspection for wall stud installation,59,runners,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+84,visual inspection for wall stud installation,66,wall system contains wall panel,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+84,visual inspection for wall stud installation,60,metal skeleton,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+85,visual inspection for fire board installation at wall,3,promatect hboard,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+85,visual inspection for fire board installation at wall,63,gemtree board,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+85,visual inspection for fire board installation at wall,5,gemtree frp board,39,"fire board, wall stud installation",0,,4,N/A,3,authorized persons,wall,3
+86,visual inspection for rockwool in-fill at wall surface,61,mineral wool insulation,40,rockwool in-fill at wall surface,0,,4,N/A,3,authorized persons,wall,3
+86,visual inspection for rockwool in-fill at wall surface,62,rockwool,40,rockwool in-fill at wall surface,0,,4,N/A,3,authorized persons,wall,3
+87,visual inspection for installation of mep conduit at wall surface,67,conduit,41,installation of mep conduit inside hostel room at wall surface,2,routine,4,N/A,0,,wall,3
+87,visual inspection for installation of mep conduit at wall surface,68,conduits and accessories,41,installation of mep conduit inside hostel room at wall surface,2,routine,4,N/A,0,,wall,3
+87,visual inspection for installation of mep conduit at wall surface,69,flexible conduit belongs-to mep system,41,installation of mep conduit inside hostel room at wall surface,2,routine,4,N/A,0,,wall,3
+87,visual inspection for installation of mep conduit at wall surface,70,upvc conduits and fittings,41,installation of mep conduit inside hostel room at wall surface,2,routine,4,N/A,0,,wall,3
+87,visual inspection for installation of mep conduit at wall surface,71,upvc conduits,41,installation of mep conduit inside hostel room at wall surface,2,routine,4,N/A,0,,wall,3
+87,visual inspection for installation of mep conduit at wall surface,72,flexible conduit,41,installation of mep conduit inside hostel room at wall surface,2,routine,4,N/A,0,,wall,3
+87,visual inspection for installation of mep conduit at wall surface,73,mep conduit,41,installation of mep conduit inside hostel room at wall surface,2,routine,4,N/A,0,,wall,3
+88,visual inspection for installation of gypsum board at wall surface,74,finishings,42,installation of gypsum board at wall surface,2,routine,4,N/A,0,,wall,3
+88,visual inspection for installation of gypsum board at wall surface,75,laminate for wall finsishes/laminate,42,installation of gypsum board at wall surface,2,routine,4,N/A,0,,wall,3
+88,visual inspection for installation of gypsum board at wall surface,6,gypsum board,42,installation of gypsum board at wall surface,2,routine,4,N/A,0,,wall,3
+89,internal dimension check for installation of gypsum board at wall surface,74,finishings,42,installation of gypsum board at wall surface,2,routine,3,tape measure,0,,wall,3
+89,internal dimension check for installation of gypsum board at wall surface,75,laminate for wall finsishes/laminate,42,installation of gypsum board at wall surface,2,routine,3,tape measure,0,,wall,3
+89,internal dimension check for installation of gypsum board at wall surface,6,gypsum board,42,installation of gypsum board at wall surface,2,routine,3,tape measure,0,,wall,3
+90,visual inspection for metal skeleton,76,stud,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,4,N/A,0,,wall,3
+90,visual inspection for metal skeleton,59,runners,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,4,N/A,0,,wall,3
+90,visual inspection for metal skeleton,57,track for stud installation,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,4,N/A,0,,wall,3
+90,visual inspection for metal skeleton,54,noggins and braces for reinforced stud support,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,4,N/A,0,,wall,3
+90,visual inspection for metal skeleton,58,channel,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,4,N/A,0,,wall,3
+91,measure dimension for metal skeleton,76,stud,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,3,tape measure,0,,wall,3
+91,measure dimension for metal skeleton,59,runners,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,3,tape measure,0,,wall,3
+91,measure dimension for metal skeleton,57,track for stud installation,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,3,tape measure,0,,wall,3
+91,measure dimension for metal skeleton,54,noggins and braces for reinforced stud support,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,3,tape measure,0,,wall,3
+91,measure dimension for metal skeleton,58,channel,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,3,tape measure,0,,wall,3
+92,thickness check for metal skeleton,76,stud,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,1,digital vernier scale,0,,wall,3
+92,thickness check for metal skeleton,58,channel,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,1,digital vernier scale,0,,wall,3
+92,thickness check for metal skeleton,59,runners,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,1,digital vernier scale,0,,wall,3
+92,thickness check for metal skeleton,57,track for stud installation,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,1,digital vernier scale,0,,wall,3
+92,thickness check for metal skeleton,54,noggins and braces for reinforced stud support,43,"metal skeleton- studs, runners, track,channel, noggins and braces",5,each batch,1,digital vernier scale,0,,wall,3
+93,visual inspection for galvanized steel channel posts for frame to lead lined doors,77,galvanized steel channel posts,44,galvanized steel channel posts for frame to lead lined doors,5,each batch,4,N/A,0,,wall,3
+93,visual inspection for galvanized steel channel posts for frame to lead lined doors,78,lead lined doors,44,galvanized steel channel posts for frame to lead lined doors,5,each batch,4,N/A,0,,wall,3
+94,measure dimension for galvanized steel channel posts for frame to lead lined doors,77,galvanized steel channel posts,44,galvanized steel channel posts for frame to lead lined doors,5,each batch,3,tape measure,0,,wall,3
+94,measure dimension for galvanized steel channel posts for frame to lead lined doors,78,lead lined doors,44,galvanized steel channel posts for frame to lead lined doors,5,each batch,3,tape measure,0,,wall,3
+95,thickness check for galvanized steel channel posts for frame to lead lined doors,77,galvanized steel channel posts,44,galvanized steel channel posts for frame to lead lined doors,5,each batch,1,digital vernier scale,0,,wall,3
+96,brand name check for rockwool delivered to site,61,mineral wool insulation,45,rockwool delivered to site,5,each batch,16,bill of materials,0,,wall,3
+96,brand name check for rockwool delivered to site,62,rockwool,45,rockwool delivered to site,5,each batch,16,bill of materials,0,,wall,3
+97,thickness check for rockwool delivered to site,61,mineral wool insulation,45,rockwool delivered to site,5,each batch,3,tape measure,0,,wall,3
+97,thickness check for rockwool delivered to site,62,rockwool,45,rockwool delivered to site,5,each batch,3,tape measure,0,,wall,3
+98,size check for rockwool delivered to site,61,mineral wool insulation,45,rockwool delivered to site,5,each batch,3,tape measure,0,,wall,3
+98,size check for rockwool delivered to site,62,rockwool,45,rockwool delivered to site,5,each batch,3,tape measure,0,,wall,3
+99,"check setting out(location, area, thickness) for wall installation",64,wall panel,46,"setting out(location, area, thickness)",10,20%,3,tape measure,0,,wall,3
+99,"check setting out(location, area, thickness) for wall installation",65,wall tiles,46,"setting out(location, area, thickness)",10,20%,3,tape measure,0,,wall,3
+100,dimension check for wall installation,64,wall panel,46,"setting out(location, area, thickness)",10,20%,3,tape measure,0,,wall,3
+100,dimension check for wall installation,65,wall tiles,46,"setting out(location, area, thickness)",10,20%,3,tape measure,0,,wall,3
+101,check support fixtures for top and bottom track installation,79,track,47,top and bottom track installation,10,20%,17,level,0,,wall,3
+101,check support fixtures for top and bottom track installation,79,track,47,top and bottom track installation,10,20%,3,tape measure,0,,wall,3
+102,check steel stud vertical and horizontal alignment for vertical stud installation frame core,76,stud,48,vertical stud installation frame core,10,20%,17,level,0,,wall,3
+103,check space and workmanship  for vertical stud installation frame core,76,stud,48,vertical stud installation frame core,10,20%,3,tape measure,0,,wall,3
+104,thickness check for installation of external wall sheeting,4,knauf frp board,49,installation of external wall sheeting,10,20%,22,caliper,0,,wall,3
+104,thickness check for installation of external wall sheeting,3,promatect hboard,49,installation of external wall sheeting,10,20%,22,caliper,0,,wall,3
+104,thickness check for installation of external wall sheeting,7,cement board,49,installation of external wall sheeting,10,20%,22,caliper,0,,wall,3
+104,thickness check for installation of external wall sheeting,5,gemtree frp board,49,installation of external wall sheeting,10,20%,22,caliper,0,,wall,3
+104,thickness check for installation of external wall sheeting,6,gypsum board,49,installation of external wall sheeting,10,20%,22,caliper,0,,wall,3
+105,check the fixing at joint and at screwheads for installation of external wall sheeting,4,knauf frp board,49,installation of external wall sheeting,10,20%,10,torque wrench,0,,wall,3
+105,check the fixing at joint and at screwheads for installation of external wall sheeting,3,promatect hboard,49,installation of external wall sheeting,10,20%,10,torque wrench,0,,wall,3
+105,check the fixing at joint and at screwheads for installation of external wall sheeting,7,cement board,49,installation of external wall sheeting,10,20%,10,torque wrench,0,,wall,3
+105,check the fixing at joint and at screwheads for installation of external wall sheeting,5,gemtree frp board,49,installation of external wall sheeting,10,20%,10,torque wrench,0,,wall,3
+105,check the fixing at joint and at screwheads for installation of external wall sheeting,6,gypsum board,49,installation of external wall sheeting,10,20%,10,torque wrench,0,,wall,3
+106,check the cutting and surface for installation of external wall sheeting,4,knauf frp board,49,installation of external wall sheeting,10,20%,3,tape measure,0,,wall,3
+106,check the cutting and surface for installation of external wall sheeting,3,promatect hboard,49,installation of external wall sheeting,10,20%,3,tape measure,0,,wall,3
+106,check the cutting and surface for installation of external wall sheeting,7,cement board,49,installation of external wall sheeting,10,20%,3,tape measure,0,,wall,3
+106,check the cutting and surface for installation of external wall sheeting,5,gemtree frp board,49,installation of external wall sheeting,10,20%,3,tape measure,0,,wall,3
+106,check the cutting and surface for installation of external wall sheeting,6,gypsum board,49,installation of external wall sheeting,10,20%,3,tape measure,0,,wall,3
+107,visual check smooth for installation of external wall sheeting,4,knauf frp board,49,installation of external wall sheeting,10,20%,4,N/A,0,,wall,3
+107,visual check smooth for installation of external wall sheeting,3,promatect hboard,49,installation of external wall sheeting,10,20%,4,N/A,0,,wall,3
+107,visual check smooth for installation of external wall sheeting,7,cement board,49,installation of external wall sheeting,10,20%,4,N/A,0,,wall,3
+107,visual check smooth for installation of external wall sheeting,5,gemtree frp board,49,installation of external wall sheeting,10,20%,4,N/A,0,,wall,3
+107,visual check smooth for installation of external wall sheeting,6,gypsum board,49,installation of external wall sheeting,10,20%,4,N/A,0,,wall,3
+108,free from other contaminates for installation of external wall sheeting,4,knauf frp board,49,installation of external wall sheeting,10,20%,23,brush,0,,wall,3
+108,free from other contaminates for installation of external wall sheeting,3,promatect hboard,49,installation of external wall sheeting,10,20%,23,brush,0,,wall,3
+108,free from other contaminates for installation of external wall sheeting,7,cement board,49,installation of external wall sheeting,10,20%,23,brush,0,,wall,3
+108,free from other contaminates for installation of external wall sheeting,5,gemtree frp board,49,installation of external wall sheeting,10,20%,23,brush,0,,wall,3
+108,free from other contaminates for installation of external wall sheeting,6,gypsum board,49,installation of external wall sheeting,10,20%,23,brush,0,,wall,3
+109,review sample for rockwool installation at wall,62,rockwool,50,rockwool installation,10,20%,4,N/A,0,,wall,3
+109,review sample for rockwool installation at wall,61,mineral wool insulation,50,rockwool installation,10,20%,4,N/A,0,,wall,3
+110,visual check firmness and fullness for rockwool installation at wall,62,rockwool,50,rockwool installation,10,20%,4,N/A,0,,wall,3
+110,visual check firmness and fullness for rockwool installation at wall,61,mineral wool insulation,50,rockwool installation,10,20%,4,N/A,0,,wall,3
+111,verify compliance for rockwool installation at wall,62,rockwool,50,rockwool installation,10,20%,3,tape measure,0,,wall,3
+111,verify compliance for rockwool installation at wall,61,mineral wool insulation,50,rockwool installation,10,20%,3,tape measure,0,,wall,3
+112,thickness check for installation of internal wall sheeting,4,knauf frp board,51,installation of internal wall sheeting,10,20%,22,caliper,0,,wall,3
+112,thickness check for installation of internal wall sheeting,3,promatect hboard,51,installation of internal wall sheeting,10,20%,22,caliper,0,,wall,3
+112,thickness check for installation of internal wall sheeting,7,cement board,51,installation of internal wall sheeting,10,20%,22,caliper,0,,wall,3
+112,thickness check for installation of internal wall sheeting,5,gemtree frp board,51,installation of internal wall sheeting,10,20%,22,caliper,0,,wall,3
+112,thickness check for installation of internal wall sheeting,6,gypsum board,51,installation of internal wall sheeting,10,20%,22,caliper,0,,wall,3
+113,check the fixing at joint and at screwheads for installation of internal wall sheeting,4,knauf frp board,51,installation of internal wall sheeting,10,20%,10,torque wrench,0,,wall,3
+113,check the fixing at joint and at screwheads for installation of internal wall sheeting,3,promatect hboard,51,installation of internal wall sheeting,10,20%,10,torque wrench,0,,wall,3
+113,check the fixing at joint and at screwheads for installation of internal wall sheeting,7,cement board,51,installation of internal wall sheeting,10,20%,10,torque wrench,0,,wall,3
+113,check the fixing at joint and at screwheads for installation of internal wall sheeting,5,gemtree frp board,51,installation of internal wall sheeting,10,20%,10,torque wrench,0,,wall,3
+113,check the fixing at joint and at screwheads for installation of internal wall sheeting,6,gypsum board,51,installation of internal wall sheeting,10,20%,10,torque wrench,0,,wall,3
+114,check the cutting and surface for installation of internal wall sheeting,4,knauf frp board,51,installation of internal wall sheeting,10,20%,3,tape measure,0,,wall,3
+114,check the cutting and surface for installation of internal wall sheeting,3,promatect hboard,51,installation of internal wall sheeting,10,20%,3,tape measure,0,,wall,3
+114,check the cutting and surface for installation of internal wall sheeting,7,cement board,51,installation of internal wall sheeting,10,20%,3,tape measure,0,,wall,3
+114,check the cutting and surface for installation of internal wall sheeting,5,gemtree frp board,51,installation of internal wall sheeting,10,20%,3,tape measure,0,,wall,3
+114,check the cutting and surface for installation of internal wall sheeting,6,gypsum board,51,installation of internal wall sheeting,10,20%,3,tape measure,0,,wall,3
+115,visual check smooth for installation of internal wall sheeting,4,knauf frp board,51,installation of internal wall sheeting,10,20%,4,N/A,0,,wall,3
+115,visual check smooth for installation of internal wall sheeting,3,promatect hboard,51,installation of internal wall sheeting,10,20%,4,N/A,0,,wall,3
+115,visual check smooth for installation of internal wall sheeting,7,cement board,51,installation of internal wall sheeting,10,20%,4,N/A,0,,wall,3
+115,visual check smooth for installation of internal wall sheeting,5,gemtree frp board,51,installation of internal wall sheeting,10,20%,4,N/A,0,,wall,3
+115,visual check smooth for installation of internal wall sheeting,6,gypsum board,51,installation of internal wall sheeting,10,20%,4,N/A,0,,wall,3
+116,free from other contaminates for installation of internal wall sheeting,4,knauf frp board,51,installation of internal wall sheeting,10,20%,23,brush,0,,wall,3
+116,free from other contaminates for installation of internal wall sheeting,3,promatect hboard,51,installation of internal wall sheeting,10,20%,23,brush,0,,wall,3
+116,free from other contaminates for installation of internal wall sheeting,7,cement board,51,installation of internal wall sheeting,10,20%,23,brush,0,,wall,3
+116,free from other contaminates for installation of internal wall sheeting,5,gemtree frp board,51,installation of internal wall sheeting,10,20%,23,brush,0,,wall,3
+116,free from other contaminates for installation of internal wall sheeting,6,gypsum board,51,installation of internal wall sheeting,10,20%,23,brush,0,,wall,3
+117,visual check and verify compliance for installed drywall framing,80,drywall,52,installed drywall framing,10,20%,4,N/A,0,,wall,3
+118,check tolerance for cutting opening width and height,81,provisional openings,53,provisional openings checking,10,20%,3,tape measure,0,,wall,3
+119,visual inspection for gypsum plaster and sanding (wall and ceiling),64,wall panel,54,gypsum plaster and sanding (wall and ceiling),2,routine,4,N/A,0,,print,4
+119,visual inspection for gypsum plaster and sanding (wall and ceiling),55,ceiling panel,54,gypsum plaster and sanding (wall and ceiling),2,routine,4,N/A,0,,print,4
+120,visual inspection for first layer painting (hostel room and corridor),64,wall panel,55,first layer painting (hostel room and corridor),2,routine,4,N/A,0,,print,4
+120,visual inspection for first layer painting (hostel room and corridor),55,ceiling panel,55,first layer painting (hostel room and corridor),2,routine,4,N/A,0,,print,4
+121,visual inspection for second layer painting,64,wall panel,56,second layer painting,2,routine,4,N/A,0,,print,4
+121,visual inspection for second layer painting,55,ceiling panel,56,second layer painting,2,routine,4,N/A,0,,print,4
+122,visual inspection for top coat paint (ceiling),55,ceiling panel,57,top coat paint (ceiling),2,routine,4,N/A,0,,print,4
+123,brand name check for emulsion paint delivered to site,82,emulsion paint,58,emulsion paint delivered to site,5,each batch,16,bill of materials,0,,print,4
+124,visual inspection for emulsion paint delivered to site,82,emulsion paint,58,emulsion paint delivered to site,5,each batch,4,N/A,0,,print,4
+125,visual inspection for substrades checking for skim coat plastering,83,wall substrade,59,substrades checking for skim coat plastering,10,20%,4,N/A,0,,print,4
+126,verify compliance for substrades checking for skim coat plastering,83,wall substrade,59,substrades checking for skim coat plastering,10,20%,4,N/A,0,,print,4
+127,visual inspection for applying prime (before painting emulsion paint),64,wall panel,60,apply prime (before painting emulsion paint),10,20%,4,N/A,0,,print,4
+128,verify compliance for applying prime (before painting emulsion paint),64,wall panel,60,apply prime (before painting emulsion paint),10,20%,4,N/A,0,,print,4
+129,visual inspection for apply emulsion painting (2 layers),64,wall panel,61,apply emulsion painting (2 layers),10,20%,4,N/A,0,,print,4
+130,verify compliance for apply emulsion painting (2 layers),82,emulsion paint,61,apply emulsion painting (2 layers),10,20%,4,N/A,0,,print,4
+131,visual inspection for installation of mep trunking at ceiling (at common area),55,ceiling panel,62,installation of mep trunking at ceiling (at common area),2,routine,4,N/A,0,,electrical & mechanical,5
+131,visual inspection for installation of mep trunking at ceiling (at common area),84,mep system,62,installation of mep trunking at ceiling (at common area),2,routine,4,N/A,0,,electrical & mechanical,5
+131,visual inspection for installation of mep trunking at ceiling (at common area),85,cable trunking,62,installation of mep trunking at ceiling (at common area),2,routine,4,N/A,0,,electrical & mechanical,5
+132,dimension check for cable tray execution,86,cable tray,63,cable tray,5,each batch,3,tape measure,0,,electrical & mechanical,5
+133,quantity check for cable tray execution,86,cable tray,63,cable tray,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+134,material certificate check for cable tray execution,86,cable tray,63,cable tray,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+135,dimension check for cable trunking,85,cable trunking,64,cable trunking,5,each batch,3,tape measure,0,,electrical & mechanical,5
+136,quantity check for cable trunking,85,cable trunking,64,cable trunking,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+137,material certificate check for cable trunking,85,cable trunking,64,cable trunking,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+138,dimension check for conduit system,67,conduit,65,conduit system,5,each batch,3,tape measure,0,,electrical & mechanical,5
+139,quantity check for conduit system,67,conduit,65,conduit system,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+140,material certificate check for conduit system,67,conduit,65,conduit system,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+138,dimension check for conduit system,68,conduits and accessories,65,conduit system,5,each batch,3,tape measure,0,,electrical & mechanical,5
+139,quantity check for conduit system,68,conduits and accessories,65,conduit system,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+140,material certificate check for conduit system,68,conduits and accessories,65,conduit system,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+138,dimension check for conduit system,69,flexible conduit belongs-to mep system,65,conduit system,5,each batch,3,tape measure,0,,electrical & mechanical,5
+139,quantity check for conduit system,69,flexible conduit belongs-to mep system,65,conduit system,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+140,material certificate check for conduit system,69,flexible conduit belongs-to mep system,65,conduit system,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+138,dimension check for conduit system,70,upvc conduits and fittings,65,conduit system,5,each batch,3,tape measure,0,,electrical & mechanical,5
+139,quantity check for conduit system,70,upvc conduits and fittings,65,conduit system,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+140,material certificate check for conduit system,70,upvc conduits and fittings,65,conduit system,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+138,dimension check for conduit system,71,upvc conduits,65,conduit system,5,each batch,3,tape measure,0,,electrical & mechanical,5
+139,quantity check for conduit system,71,upvc conduits,65,conduit system,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+140,material certificate check for conduit system,71,upvc conduits,65,conduit system,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+138,dimension check for conduit system,72,flexible conduit,65,conduit system,5,each batch,3,tape measure,0,,electrical & mechanical,5
+139,quantity check for conduit system,72,flexible conduit,65,conduit system,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+140,material certificate check for conduit system,72,flexible conduit,65,conduit system,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+138,dimension check for conduit system,73,mep conduit,65,conduit system,5,each batch,3,tape measure,0,,electrical & mechanical,5
+139,quantity check for conduit system,73,mep conduit,65,conduit system,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+140,material certificate check for conduit system,73,mep conduit,65,conduit system,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+138,dimension check for conduit system,87,junction box,66,conduit / junction box / cable tray execution,5,each batch,3,tape measure,0,,electrical & mechanical,5
+139,quantity check for conduit system,87,junction box,66,conduit / junction box / cable tray execution,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+140,material certificate check for conduit system,87,junction box,66,conduit / junction box / cable tray execution,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+141,dimension check for cable wiring,88,armoured wiring,67,cable wiring,5,each batch,3,tape measure,0,,electrical & mechanical,5
+142,quantity check for cable wiring,88,armoured wiring,67,cable wiring,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+143,material certificate check for cable wiring,88,armoured wiring,67,cable wiring,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+141,dimension check for cable wiring,89,swa copper cable,67,cable wiring,5,each batch,3,tape measure,0,,electrical & mechanical,5
+142,quantity check for cable wiring,89,swa copper cable,67,cable wiring,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+143,material certificate check for cable wiring,89,swa copper cable,67,cable wiring,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+141,dimension check for cable wiring,90,non-armoured cable,67,cable wiring,5,each batch,3,tape measure,0,,electrical & mechanical,5
+142,quantity check for cable wiring,90,non-armoured cable,67,cable wiring,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+143,material certificate check for cable wiring,90,non-armoured cable,67,cable wiring,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+141,dimension check for cable wiring,91,pvc/ pvc cable,67,cable wiring,5,each batch,3,tape measure,0,,electrical & mechanical,5
+142,quantity check for cable wiring,91,pvc/ pvc cable,67,cable wiring,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+143,material certificate check for cable wiring,91,pvc/ pvc cable,67,cable wiring,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+141,dimension check for cable wiring,92,pvc/swa/pvc copper cable,67,cable wiring,5,each batch,3,tape measure,0,,electrical & mechanical,5
+142,quantity check for cable wiring,92,pvc/swa/pvc copper cable,67,cable wiring,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+143,material certificate check for cable wiring,92,pvc/swa/pvc copper cable,67,cable wiring,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+141,dimension check for cable wiring,93,pvc cables,67,cable wiring,5,each batch,3,tape measure,0,,electrical & mechanical,5
+142,quantity check for cable wiring,93,pvc cables,67,cable wiring,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+143,material certificate check for cable wiring,93,pvc cables,67,cable wiring,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+144,visual inspection for the installation of sprinkler pipes (at hostel room),94,sprinkler pipe,68,installation of sprinkler pipes (at hostel room),2,routine,4,N/A,0,,electrical & mechanical,5
+145,sample for sprinkler heads,95,sprinkler heads,69,sprinkler heads,5,each batch,4,N/A,0,,electrical & mechanical,5
+146,brand name check for sprinkler heads,95,sprinkler heads,69,sprinkler heads,5,each batch,16,bill of materials,0,,electrical & mechanical,5
+147,visual inspection for sprinkler heads,95,sprinkler heads,69,sprinkler heads,5,each batch,4,N/A,0,,electrical & mechanical,5
+148,measure dimension for sprinkler heads,95,sprinkler heads,69,sprinkler heads,5,each batch,22,caliper,0,,electrical & mechanical,5
+149,3mm thickness check for sprinkler heads,95,sprinkler heads,69,sprinkler heads,5,each batch,22,caliper,0,,electrical & mechanical,5
+150,vertical distance less than 800mm for sprinkler heads,95,sprinkler heads,69,sprinkler heads,5,each batch,3,tape measure,0,,electrical & mechanical,5
+151,check temperatrure rating for sprinkler heads,95,sprinkler heads,69,sprinkler heads,5,each batch,4,N/A,0,,electrical & mechanical,5
+152,sample for fire detector,96,fire detector,70,fire detector,5,each batch,4,N/A,0,,electrical & mechanical,5
+153,brand name check for fire detector,96,fire detector,70,fire detector,5,each batch,16,bill of materials,0,,electrical & mechanical,5
+154,check properties for fire detector,96,fire detector,70,fire detector,5,each batch,24,functional test tool,0,,electrical & mechanical,5
+155,each fire alarm bell shall be painted in red colour and clearly marked with the words "fire alarm"in both english and chinese in white colour.the height of all the english and chinese wordings shall not be less than 10mm and 15mm respectively.,97,fire alarm bells,71,fire alarm bells,5,each batch,4,N/A,0,,electrical & mechanical,5
+156,all pipes shall be new and shall be thoroughly cleaned,98,copper pipes,72,pipes,5,each batch,23,brush,0,,electrical & mechanical,5
+156,all pipes shall be new and shall be thoroughly cleaned,99,epoxy coated cast iron pipes,72,pipes,5,each batch,23,brush,0,,electrical & mechanical,5
+156,all pipes shall be new and shall be thoroughly cleaned,100,epoxy pipes,72,pipes,5,each batch,23,brush,0,,electrical & mechanical,5
+156,all pipes shall be new and shall be thoroughly cleaned,101,upvc pipes,72,pipes,5,each batch,23,brush,0,,electrical & mechanical,5
+156,all pipes shall be new and shall be thoroughly cleaned,102,galvanized steel pipes,72,pipes,5,each batch,23,brush,0,,electrical & mechanical,5
+157,sample for pipe fittings,103,pipe fittings,73,pipe fittings,5,each batch,23,brush,0,,electrical & mechanical,5
+158,brand name check for pipe fittings,103,pipe fittings,73,pipe fittings,5,each batch,16,bill of materials,0,,electrical & mechanical,5
+159,check properties for pipe fittings,103,pipe fittings,73,pipe fittings,5,each batch,24,functional test tool,0,,electrical & mechanical,5
+160,visual inspection for conduit system,67,conduit,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+160,visual inspection for conduit system,68,conduits and accessories,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+160,visual inspection for conduit system,69,flexible conduit belongs-to mep system,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+160,visual inspection for conduit system,70,upvc conduits and fittings,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+160,visual inspection for conduit system,72,flexible conduit,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+160,visual inspection for conduit system,73,mep conduit,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+161,surface check for conduit system,67,conduit,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+161,surface check for conduit system,68,conduits and accessories,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+161,surface check for conduit system,69,flexible conduit belongs-to mep system,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+161,surface check for conduit system,70,upvc conduits and fittings,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+161,surface check for conduit system,72,flexible conduit,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+161,surface check for conduit system,73,mep conduit,65,conduit system,5,each batch,4,N/A,0,,electrical & mechanical,5
+162,visual inspection for pipework execution,98,copper pipes,74,pipework execution,10,20%,4,N/A,0,,electrical & mechanical,5
+162,visual inspection for pipework execution,99,epoxy coated cast iron pipes,74,pipework execution,10,20%,4,N/A,0,,electrical & mechanical,5
+162,visual inspection for pipework execution,100,epoxy pipes,74,pipework execution,10,20%,4,N/A,0,,electrical & mechanical,5
+162,visual inspection for pipework execution,101,upvc pipes,74,pipework execution,10,20%,4,N/A,0,,electrical & mechanical,5
+162,visual inspection for pipework execution,102,galvanized steel pipes,74,pipework execution,10,20%,4,N/A,0,,electrical & mechanical,5
+163,surface check for pipework execution,98,copper pipes,74,pipework execution,10,20%,4,N/A,0,,electrical & mechanical,5
+163,surface check for pipework execution,99,epoxy coated cast iron pipes,74,pipework execution,10,20%,4,N/A,0,,electrical & mechanical,5
+163,surface check for pipework execution,100,epoxy pipes,74,pipework execution,10,20%,4,N/A,0,,electrical & mechanical,5
+163,surface check for pipework execution,101,upvc pipes,74,pipework execution,10,20%,4,N/A,0,,electrical & mechanical,5
+163,surface check for pipework execution,102,galvanized steel pipes,74,pipework execution,10,20%,4,N/A,0,,electrical & mechanical,5
+164,chinese and english language check for labelling for mep,84,mep system,75,labelling,5,each batch,4,N/A,0,,electrical & mechanical,5
+165,visual inspection for painting and labelling for mep,84,mep system,76,painting and labelling,10,20%,4,N/A,0,,electrical & mechanical,5
+166,surface check for painting and labelling for mep,84,mep system,76,painting and labelling,10,20%,4,N/A,0,,electrical & mechanical,5
+167,dimension check for ductwork and fittings,104,ductwork and fittings,77,ductwork and fittings,5,each batch,3,tape measure,0,,electrical & mechanical,5
+168,quantity check for ductwork and fittings,104,ductwork and fittings,77,ductwork and fittings,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+169,material certificate check for ductwork and fittings,104,ductwork and fittings,77,ductwork and fittings,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+170,dimension check for pipework and fittings,103,pipe fittings,78,pipework and fittings,5,each batch,3,tape measure,0,,electrical & mechanical,5
+171,quantity check for pipework and fittings,103,pipe fittings,78,pipework and fittings,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+172,material certificate for pipework and fittings,103,pipe fittings,78,pipework and fittings,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+170,dimension check for pipework and fittings,98,copper pipes,78,pipework and fittings,5,each batch,3,tape measure,0,,electrical & mechanical,5
+171,quantity check for pipework and fittings,98,copper pipes,78,pipework and fittings,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+172,material certificate for pipework and fittings,98,copper pipes,78,pipework and fittings,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+170,dimension check for pipework and fittings,99,epoxy coated cast iron pipes,78,pipework and fittings,5,each batch,3,tape measure,0,,electrical & mechanical,5
+171,quantity check for pipework and fittings,99,epoxy coated cast iron pipes,78,pipework and fittings,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+172,material certificate for pipework and fittings,99,epoxy coated cast iron pipes,78,pipework and fittings,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+170,dimension check for pipework and fittings,100,epoxy pipes,78,pipework and fittings,5,each batch,3,tape measure,0,,electrical & mechanical,5
+171,quantity check for pipework and fittings,100,epoxy pipes,78,pipework and fittings,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+172,material certificate for pipework and fittings,100,epoxy pipes,78,pipework and fittings,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+170,dimension check for pipework and fittings,101,upvc pipes,78,pipework and fittings,5,each batch,3,tape measure,0,,electrical & mechanical,5
+171,quantity check for pipework and fittings,101,upvc pipes,78,pipework and fittings,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+172,material certificate for pipework and fittings,101,upvc pipes,78,pipework and fittings,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+170,dimension check for pipework and fittings,102,galvanized steel pipes,78,pipework and fittings,5,each batch,3,tape measure,0,,electrical & mechanical,5
+171,quantity check for pipework and fittings,102,galvanized steel pipes,78,pipework and fittings,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+172,material certificate for pipework and fittings,102,galvanized steel pipes,78,pipework and fittings,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+173,dimension check for window type ac installation,105,ventilation fan,79,window type ac installation,5,each batch,3,tape measure,0,,electrical & mechanical,5
+174,quantity check for window type ac installation,105,ventilation fan,79,window type ac installation,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+175,material certificate for window type ac installation,105,ventilation fan,79,window type ac installation,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+173,dimension check for window type ac installation,106,carbon filter,79,window type ac installation,5,each batch,3,tape measure,0,,electrical & mechanical,5
+174,quantity check for window type ac installation,106,carbon filter,79,window type ac installation,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+175,material certificate for window type ac installation,106,carbon filter,79,window type ac installation,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+173,dimension check for window type ac installation,107,window type ac,79,window type ac installation,5,each batch,3,tape measure,0,,electrical & mechanical,5
+174,quantity check for window type ac installation,107,window type ac,79,window type ac installation,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+175,material certificate for window type ac installation,107,window type ac,79,window type ac installation,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+173,dimension check for window type ac installation,108,air filters,79,window type ac installation,5,each batch,3,tape measure,0,,electrical & mechanical,5
+174,quantity check for window type ac installation,108,air filters,79,window type ac installation,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+175,material certificate for window type ac installation,108,air filters,79,window type ac installation,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+173,dimension check for window type ac installation,109,activated carbon filter,79,window type ac installation,5,each batch,3,tape measure,0,,electrical & mechanical,5
+174,quantity check for window type ac installation,109,activated carbon filter,79,window type ac installation,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+175,material certificate for window type ac installation,109,activated carbon filter,79,window type ac installation,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+173,dimension check for window type ac installation,110,rubber vibration isolators,79,window type ac installation,5,each batch,3,tape measure,0,,electrical & mechanical,5
+174,quantity check for window type ac installation,110,rubber vibration isolators,79,window type ac installation,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+175,material certificate for window type ac installation,110,rubber vibration isolators,79,window type ac installation,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+173,dimension check for window type ac installation,111,spring vibration isolators,79,window type ac installation,5,each batch,3,tape measure,0,,electrical & mechanical,5
+174,quantity check for window type ac installation,111,spring vibration isolators,79,window type ac installation,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+175,material certificate for window type ac installation,111,spring vibration isolators,79,window type ac installation,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+173,dimension check for window type ac installation,112,air grilles/diffuser,79,window type ac installation,5,each batch,3,tape measure,0,,electrical & mechanical,5
+174,quantity check for window type ac installation,112,air grilles/diffuser,79,window type ac installation,5,each batch,8,inventory checklist,0,,electrical & mechanical,5
+175,material certificate for window type ac installation,112,air grilles/diffuser,79,window type ac installation,5,each batch,2,mill certificate,0,,electrical & mechanical,5
+176,visual inspection for installation of lighting,113,lighting fittings,80,installation of lighting / mep final fix,2,routine,4,N/A,0,,electrical & mechanical,5
+176,visual inspection for installation of lighting,114,lightings,80,installation of lighting / mep final fix,2,routine,4,N/A,0,,electrical & mechanical,5
+176,visual inspection for installation of lighting,115,battery lighting fittings,80,installation of lighting / mep final fix,2,routine,4,N/A,0,,electrical & mechanical,5
+177,visual inspection for mep final fix,84,mep system,80,installation of lighting / mep final fix,2,routine,4,N/A,0,,electrical & mechanical,5
+178,visual inspection for cladding panel installation/ top coat wall paint,3,promatect hboard,81,cladding panel installation/ top coat wall paint,2,routine,4,N/A,0,,testing and commissioning,6
+178,visual inspection for cladding panel installation/ top coat wall paint,4,knauf frp board,81,cladding panel installation/ top coat wall paint,2,routine,4,N/A,0,,testing and commissioning,6
+178,visual inspection for cladding panel installation/ top coat wall paint,5,gemtree frp board,81,cladding panel installation/ top coat wall paint,2,routine,4,N/A,0,,testing and commissioning,6
+178,visual inspection for cladding panel installation/ top coat wall paint,6,gypsum board,81,cladding panel installation/ top coat wall paint,2,routine,4,N/A,0,,testing and commissioning,6
+178,visual inspection for cladding panel installation/ top coat wall paint,7,cement board,81,cladding panel installation/ top coat wall paint,2,routine,4,N/A,0,,testing and commissioning,6
+178,visual inspection for cladding panel installation/ top coat wall paint,82,emulsion paint,81,cladding panel installation/ top coat wall paint,2,routine,4,N/A,0,,testing and commissioning,6
+179,"sample for seal, seal accessories",52,structual sealant,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+180,"brand name check for seal, seal accessories",52,structual sealant,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,16,bill of materials,0,,testing and commissioning,6
+181,"visual inspection for seal, seal accessories",52,structual sealant,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+182,"colour check for seal, seal accessories",52,structual sealant,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+183,"structual sealant 25%  for seal, seal accessories",52,structual sealant,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,12,tensile testing machine,0,,testing and commissioning,6
+184,"movement capability check for seal, seal accessories",52,structual sealant,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,25,technical specification,0,,testing and commissioning,6
+179,"sample for seal, seal accessories",53,weather sealants,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+180,"brand name check for seal, seal accessories",53,weather sealants,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,16,bill of materials,0,,testing and commissioning,6
+181,"visual inspection for seal, seal accessories",53,weather sealants,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+182,"colour check for seal, seal accessories",53,weather sealants,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+184,"movement capability check for seal, seal accessories",53,weather sealants,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,12,tensile testing machine,0,,testing and commissioning,6
+185,"weather sealant 50% check for seal, seal accessories",53,weather sealants,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,25,technical specification,0,,testing and commissioning,6
+179,"sample for seal, seal accessories",116,backer rods,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+180,"brand name check for seal, seal accessories",116,backer rods,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,16,bill of materials,0,,testing and commissioning,6
+181,"visual inspection for seal, seal accessories",116,backer rods,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+182,"colour check for seal, seal accessories",116,backer rods,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+184,"movement capability check for seal, seal accessories",116,backer rods,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,12,tensile testing machine,0,,testing and commissioning,6
+179,"sample for seal, seal accessories",117,tapes,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,25,technical specification,0,,testing and commissioning,6
+180,"brand name check for seal, seal accessories",117,tapes,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+181,"visual inspection for seal, seal accessories",117,tapes,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,16,bill of materials,0,,testing and commissioning,6
+182,"colour check for seal, seal accessories",117,tapes,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+182,"colour check for seal, seal accessories",50,gasket,82,"seal, seal accessories (structual sealant, weather sealants, backer rods, tapes, etc)",5,each batch,4,N/A,0,,testing and commissioning,6
+186,sample for gasket,50,gasket,83,gasket,5,each batch,4,N/A,0,,testing and commissioning,6
+187,brand name check for gasket,50,gasket,83,gasket,5,each batch,16,bill of materials,0,,testing and commissioning,6
+188,gasket profiles not less than 0.7n/mm,50,gasket,83,gasket,5,each batch,12,tensile testing machine,0,,testing and commissioning,6
+189,"minimum 3mm thickness, with maximun 5% thickness tolerance for setting blocks",47,setting blocks,84,setting blocks,5,each batch,1,digital vernier scale,0,,testing and commissioning,6
+190,aluminium for external cladding not less than 3mm thickness,118,aluminium for external cladding,85,aluminium,5,each batch,1,digital vernier scale,0,,testing and commissioning,6
+191,sample for fixing and anchorages,119,fixing and anchorages,86,fixing and anchorages,5,each batch,4,N/A,0,,testing and commissioning,6
+192,brand name check for fixing and anchorages,119,fixing and anchorages,86,fixing and anchorages,5,each batch,16,bill of materials,0,,testing and commissioning,6
+193,visual check type and size for fixing and anchorages,119,fixing and anchorages,86,fixing and anchorages,5,each batch,4,N/A,0,,testing and commissioning,6
+194,minimum 3mm thickness check for backpan,120,backpan,87,backpan,5,each batch,1,digital vernier scale,0,,testing and commissioning,6
+195,sample for insulation,121,rockwool acoustic insulation,88,insulation,5,each batch,4,N/A,0,,testing and commissioning,6
+196,brand name check for insulation,121,rockwool acoustic insulation,88,insulation,5,each batch,16,bill of materials,0,,testing and commissioning,6
+197,visual inspection for insulation,121,rockwool acoustic insulation,88,insulation,5,each batch,4,N/A,0,,testing and commissioning,6
+195,sample for insulation,122,acoustic insulation,88,insulation,5,each batch,4,N/A,0,,testing and commissioning,6
+196,brand name check for insulation,122,acoustic insulation,88,insulation,5,each batch,16,bill of materials,0,,testing and commissioning,6
+197,visual inspection for insulation,122,acoustic insulation,88,insulation,5,each batch,4,N/A,0,,testing and commissioning,6
+195,sample for insulation,61,mineral wool insulation,88,insulation,5,each batch,4,N/A,0,,testing and commissioning,6
+196,brand name check for insulation,61,mineral wool insulation,88,insulation,5,each batch,16,bill of materials,0,,testing and commissioning,6
+197,visual inspection for insulation,61,mineral wool insulation,88,insulation,5,each batch,4,N/A,0,,testing and commissioning,6
+198,minimium 0.6mm thicknes check for flashings,123,flashings,89,flashings,5,each batch,1,digital vernier scale,0,,testing and commissioning,6
+199,"installed as approved working drawing and comply with performance requirements, codes, standards/requirement of the relevant",124,fa?ade system,90,installation of fa?ade system,10,20%,4,N/A,0,,testing and commissioning,6
+200,operation assurance for hardware installation,125,hardware,91,hardware installation,10,20%,4,N/A,0,,testing and commissioning,6
+201,"plumb, level and aligned with required torlerance check for sub-framing",126,sub frame,92,sub-framing,10,20%,17,level,0,,testing and commissioning,6
+202,brand name check for vinyl floor installation,127,pvc sheet vinyl/vinyl floor,93,pvc sheet vinyl,5,each batch,4,N/A,0,,testing and commissioning,6
+203,approval sample for vinyl floor installation,127,pvc sheet vinyl/vinyl floor,93,pvc sheet vinyl,5,each batch,4,N/A,0,,testing and commissioning,6
+204,visual surface check for vinyl floor installation,127,pvc sheet vinyl/vinyl floor,93,pvc sheet vinyl,5,each batch,4,N/A,0,,testing and commissioning,6
+205,dimension and thickness check for vinyl floor installation,127,pvc sheet vinyl/vinyl floor,93,pvc sheet vinyl,5,each batch,3,tape measure,0,,testing and commissioning,6
+206,check setting out compliance for vinyl floor installation,127,pvc sheet vinyl/vinyl floor,94,setting out befor prior work commencement,10,20%,3,tape measure,0,,testing and commissioning,6
+207,visual inspection for vinyl floor installation,127,pvc sheet vinyl/vinyl floor,95,installation of vinyl floor,10,20%,4,N/A,0,,testing and commissioning,6
+208,visual inspection for cabinets/ wardrobe installation,128,sink cabinet,96,cabinets/ wardrobe installation,2,routine,4,N/A,0,,testing and commissioning,6
+208,visual inspection for cabinets/ wardrobe installation,129,toilet cabinet,96,cabinets/ wardrobe installation,2,routine,4,N/A,0,,testing and commissioning,6
+208,visual inspection for cabinets/ wardrobe installation,130,tv cabinet,96,cabinets/ wardrobe installation,2,routine,4,N/A,0,,testing and commissioning,6
+208,visual inspection for cabinets/ wardrobe installation,131,wall cabinet,96,cabinets/ wardrobe installation,2,routine,4,N/A,0,,testing and commissioning,6
+208,visual inspection for cabinets/ wardrobe installation,132,cabinets,96,cabinets/ wardrobe installation,2,routine,4,N/A,0,,testing and commissioning,6
+208,visual inspection for cabinets/ wardrobe installation,133,toilet-sink cabinet,96,cabinets/ wardrobe installation,2,routine,4,N/A,0,,testing and commissioning,6
+208,visual inspection for cabinets/ wardrobe installation,134,wardrobe,96,cabinets/ wardrobe installation,2,routine,4,N/A,0,,testing and commissioning,6
+209,brand name check for laminate,135,plastic laminate,97,plastic laminate,5,each batch,16,bill of materials,0,,testing and commissioning,6
+210,approval sample for laminate,135,plastic laminate,97,plastic laminate,5,each batch,4,N/A,0,,testing and commissioning,6
+211,visual surface check for laminate,135,plastic laminate,97,plastic laminate,5,each batch,4,N/A,0,,testing and commissioning,6
+212,dimension check for laminate,135,plastic laminate,97,plastic laminate,5,each batch,3,tape measure,0,,testing and commissioning,6
+213,thickness check for laminate,135,plastic laminate,97,plastic laminate,5,each batch,22,caliper,0,,testing and commissioning,6
+214,brand name check for wood,136,wood (veneer type and solid stock type),98,wood (veneer type and solid stock type),5,each batch,16,bill of materials,0,,testing and commissioning,6
+215,approval sample for wood,136,wood (veneer type and solid stock type),98,wood (veneer type and solid stock type),5,each batch,4,N/A,0,,testing and commissioning,6
+216,wood preservative check for wood,136,wood (veneer type and solid stock type),98,wood (veneer type and solid stock type),5,each batch,4,N/A,0,,testing and commissioning,6
+217,dimension check for wood,136,wood (veneer type and solid stock type),98,wood (veneer type and solid stock type),5,each batch,3,tape measure,0,,testing and commissioning,6
+218,thickness check for wood,136,wood (veneer type and solid stock type),98,wood (veneer type and solid stock type),5,each batch,22,caliper,0,,testing and commissioning,6
+219,brand name check for shelf supports,137,shelf supports,99,shelf supports,5,each batch,16,bill of materials,0,,testing and commissioning,6
+220,approval sample for shelf supports,137,shelf supports,99,shelf supports,5,each batch,4,N/A,0,,testing and commissioning,6
+221,visual inspection for shelf supports,137,shelf supports,99,shelf supports,5,each batch,4,N/A,0,,testing and commissioning,6
+222,check setting out(dimension and shop drawing detail) for furniture,138,furniture,100,setting out,10,20%,3,tape measure,0,,testing and commissioning,6
+223,visual inspection for component construction and installation of furniture,138,furniture,101,"component construction and installation of furniture (i.e. hostel desk and wall hang shelf, hostel cabinet,hostel bed)",10,20%,4,N/A,0,,testing and commissioning,6
+224,dimension and design requirement check for component construction and installation of furniture,138,furniture,101,"component construction and installation of furniture (i.e. hostel desk and wall hang shelf, hostel cabinet,hostel bed)",10,20%,3,tape measure,0,,testing and commissioning,6
+225,protected by polyurethane sheeting or other suitable protection,138,furniture,102,protection of work,10,20%,4,N/A,0,,testing and commissioning,6
+226,removal any soiled spots from face of finish surface of furniture,138,furniture,103,cleaning,10,20%,26,cleaning tool,0,,testing and commissioning,6
+227,review sample for installation?of?locksets,139,locksets,104,installation?of?locksets,10,20%,4,N/A,0,,testing and commissioning,6
+228,visual inspection for installation?of?locksets,139,locksets,104,installation?of?locksets,10,20%,4,N/A,0,,testing and commissioning,6
+229,verify compliance for installation?of?locksets,139,locksets,104,installation?of?locksets,10,20%,4,N/A,0,,testing and commissioning,6
+230,review sample for installation?of?floor door stop,140,floor door stop,105,installation?of?floor door stop,10,20%,4,N/A,0,,testing and commissioning,6
+231,visual inspection for installation?of?floor door stop,140,floor door stop,105,installation?of?floor door stop,10,20%,4,N/A,0,,testing and commissioning,6
+232,verify compliance for installation?of?floor door stop,140,floor door stop,105,installation?of?floor door stop,10,20%,4,N/A,0,,testing and commissioning,6
+233,visual inspection for grouting behind the frame back,27,window frame,106,grouting behind the frame back,4,10%,4,N/A,0,,testing and commissioning,6
+234,verify compliance for grouting behind the frame back,27,window frame,106,grouting behind the frame back,4,10%,4,N/A,0,,testing and commissioning,6
+235,visual inspection for sealant and gasket application at window,38,aluminium window,107,sealant and gasket application,4,10%,4,N/A,0,,testing and commissioning,6
+235,visual inspection for sealant and gasket application at window,52,structual sealant,107,sealant and gasket application,4,10%,4,N/A,0,,testing and commissioning,6
+235,visual inspection for sealant and gasket application at window,53,weather sealants,107,sealant and gasket application,4,10%,4,N/A,0,,testing and commissioning,6
+235,visual inspection for sealant and gasket application at window,50,gasket,107,sealant and gasket application,4,10%,4,N/A,0,,testing and commissioning,6
+236,surface check for sealant and gasket application at window,38,aluminium window,107,sealant and gasket application,4,10%,4,N/A,0,,testing and commissioning,6
+236,surface check for sealant and gasket application at window,50,gasket,107,sealant and gasket application,4,10%,4,N/A,0,,testing and commissioning,6
+236,surface check for sealant and gasket application at window,52,structual sealant,107,sealant and gasket application,4,10%,4,N/A,0,,testing and commissioning,6
+236,surface check for sealant and gasket application at window,53,weather sealants,107,sealant and gasket application,4,10%,4,N/A,0,,testing and commissioning,6
+237,water-tightness test for window installation,141,window,108,water-tightness tests,3,100%,19,water spray system,0,,testing and commissioning,6
+238,visual inspection for general cleaning and floor protection,142,floor/vinyl floor,109,general cleaning and floor protection,2,routine,4,N/A,0,,testing and commissioning,6
+239,visual inspection for packing and protection of furniture,138,furniture,110,packing and protection of furniture,2,routine,4,N/A,0,,testing and commissioning,6
+240,"mep final check (air conditioning, fire suppression, electrical)",84,mep system,111,"mep final check (air conditioning, fire suppression, electrical)",2,routine,4,N/A,0,,testing and commissioning,6
+241,3d dimension check during testing and commissioning,143,MiC module,112,3d dimension check,2,routine,3,tape measure,0,,testing and commissioning,6
+242,paint touch-up,143,MiC module,113,paint touch-up,2,routine,27,paint,0,,testing and commissioning,6
+243,final qc inspection,143,MiC module,114,final qc inspection,2,routine,4,N/A,0,,testing and commissioning,6
+244,3d scanning with dimension check,143,MiC module,115,MiC geometry,3,100%,9,laser equipment,0,,testing and commissioning,6
+245,final overall check for waterproofing,143,MiC module,116,waterproofing,3,100%,19,water spray system,0,,testing and commissioning,6
+246,final overall check for steel and metal work,143,MiC module,117,steel and metal work,3,100%,28,welding inspection mirror,0,,testing and commissioning,6
+247,final overall check for carpentry and joinery,143,MiC module,118,carpentry and joinery,3,100%,3,tape measure,0,,testing and commissioning,6
+248,final overall check for roofing,143,MiC module,119,roofing,3,100%,13,hydrostatic testing equipment,0,,testing and commissioning,6
+249,final overall check for finishes,143,MiC module,120,finishes,3,100%,4,N/A,0,,testing and commissioning,6
+250,final overall check for sanitary fitting,143,MiC module,121,sanitary fitting,3,100%,4,N/A,0,,testing and commissioning,6
+251,final overall check for aluminium windows,143,MiC module,122,aluminium windows,3,100%,29,sealant test tool,0,,testing and commissioning,6
+252,final overall check for ironmongery,143,MiC module,123,ironmongery,3,100%,10,torque wrench,0,,testing and commissioning,6
+253,final overall check for expansion joints,143,MiC module,124,expansion joints,3,100%,4,N/A,0,,testing and commissioning,6
+254,final overall check for drywall partitions,143,MiC module,125,drywall partitions,3,100%,4,N/A,0,,testing and commissioning,6
+255,final overall check for acoustic requirment,143,MiC module,126,acoustic requirment,3,100%,30,sound level meter,0,,testing and commissioning,6
+256,final overall check for signage and graphes,143,MiC module,127,signage and graphes,3,100%,4,N/A,0,,testing and commissioning,6
+257,final overall check for loose and fix furniture,138,furniture,128,loose and fix furniture,3,100%,4,N/A,0,,testing and commissioning,6
+258,final overall check for fireproofing,143,MiC module,129,fireproofing,3,100%,31,flame test tool,0,,testing and commissioning,6
+259,final overall check for fa?ade,143,MiC module,130,fa?ade,3,100%,32,facade inspection mirror,0,,testing and commissioning,6
+260,final overall check for structure,143,MiC module,131,structure,3,100%,33,crack width gauge,0,,testing and commissioning,6
+261,final overall check for building services,143,MiC module,132,building services,3,100%,21,multi-function tester,0,,testing and commissioning,6
+262,visual inspection for labling of MiC module,143,MiC module,133,"labling of MiC module, packaging and protection mic module",2,routine,4,N/A,0,,testing and commissioning,6
+263,visual inspection for MiC module packaging and protection,143,MiC module,133,"labling of MiC module, packaging and protection mic module",2,routine,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,134,external protection on mic unit,3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,135,"internal protection on interior element (i.e. finishes, window, door, fix furniture, building service, etc)",3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,135,"internal protection on interior element (i.e. finishes, window, door, fix furniture, building service, etc)",3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,135,"internal protection on interior element (i.e. finishes, window, door, fix furniture, building service, etc)",3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,135,"internal protection on interior element (i.e. finishes, window, door, fix furniture, building service, etc)",3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,135,"internal protection on interior element (i.e. finishes, window, door, fix furniture, building service, etc)",3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,135,"internal protection on interior element (i.e. finishes, window, door, fix furniture, building service, etc)",3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,135,"internal protection on interior element (i.e. finishes, window, door, fix furniture, building service, etc)",3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,135,"internal protection on interior element (i.e. finishes, window, door, fix furniture, building service, etc)",3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,135,"internal protection on interior element (i.e. finishes, window, door, fix furniture, building service, etc)",3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,135,"internal protection on interior element (i.e. finishes, window, door, fix furniture, building service, etc)",3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,136,package on loose furniture,3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,137,package on electric appliance,3,100%,4,N/A,0,,testing and commissioning,6
+264,protection and package check,143,MiC module,138,package on material(to be post installation on site),3,100%,4,N/A,0,,testing and commissioning,6
